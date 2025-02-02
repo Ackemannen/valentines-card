@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/valentines-card/static/css/main.bf7ec176.css",
+    "main.js": "/valentines-card/static/js/main.16c085aa.js",
+    "static/js/488.b46a2596.chunk.js": "/valentines-card/static/js/488.b46a2596.chunk.js",
+    "static/media/snoopy4.gif": "/valentines-card/static/media/snoopy4.829acc45d15879a5c92f.gif",
+    "static/media/snoopy1.gif": "/valentines-card/static/media/snoopy1.b7a1c6f65ad484bf7892.gif",
+    "static/media/snoopy2.gif": "/valentines-card/static/media/snoopy2.95d3d3f9ab664492e7ef.gif",
+    "static/media/background.jpg": "/valentines-card/static/media/background.fded0bb49c66bf31b295.jpg",
+    "static/media/snoopy0.gif": "/valentines-card/static/media/snoopy0.9e08ae57d423affa3282.gif",
+    "static/media/snoopy5.gif": "/valentines-card/static/media/snoopy5.03dad45abcfc02880bd9.gif",
+    "static/media/snoopy3.gif": "/valentines-card/static/media/snoopy3.5fffaa8dde0853a9548e.gif",
+    "index.html": "/valentines-card/index.html",
+    "main.bf7ec176.css.map": "/valentines-card/static/css/main.bf7ec176.css.map",
+    "main.16c085aa.js.map": "/valentines-card/static/js/main.16c085aa.js.map",
+    "488.b46a2596.chunk.js.map": "/valentines-card/static/js/488.b46a2596.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7ec176.css",
+    "static/js/main.16c085aa.js"
+  ]
+}
