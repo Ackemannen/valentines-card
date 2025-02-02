@@ -1,0 +1,56 @@
+
+.valentine {
+    display: flex;
+    justify-content: center;
+}
+
+.valentine-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10vh;
+    height: 85vh;
+    width: 75vw;
+    background-color: #FFC2D1;
+    margin-top: 5rem;
+    border-radius: 4rem;
+    border: 4px solid #FF8FAB;
+    box-shadow: 3px 6px 6px rgba(0, 0, 0, 0.25);
+}
+
+.valentine-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.valentine-text h1 {
+    font-size: 3rem;
+    color: #150408;
+}
+
+.valentine-text p {
+    font-size: 4rem;
+    color: red;
+}
+ 
+
+
+
+.valentine-gifs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+}
+
+.valentine-gifs img {
+    height: 250px;
+    width: 250px;
+    border-radius: 1rem;
+    border: 4px solid #FF8FAB;
+    object-fit: cover;
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.25);
+}
